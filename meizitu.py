@@ -20,7 +20,7 @@ def header(referer):
         'Accept': 'image/webp,image/apng,image/*,*/*;q=0.8',
         'Referer': '{}'.format(referer),
     }
-    return headers
+    return headersx
 
 # 获取主页列表
 def getPage(pageNum):
