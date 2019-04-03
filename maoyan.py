@@ -19,7 +19,7 @@ def get_one_page(url):
         return None
     
 def parse_one_page(html):
-    pattern = re.co mpile('<dd>.*?board-index.*?>(\d+)</i>.*?data-src="(.*?)".*?name"><a'
+    pattern = re.compile('<dd>.*?board-index.*?>(\d+)</i>.*?data-src="(.*?)".*?name"><a'
     +'.*?>(.*?)</a>.*?star">(.*?)</p>.*?releasetime">(.*?)</p>'
     +'.*?integer">(.*?)</i>.*?fraction">(.*?)</i>.*?</dd>', re.S)
     items = re.findall(pattern, html)
