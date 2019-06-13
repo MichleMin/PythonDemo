@@ -56,3 +56,13 @@ headerss = {
 url = 'https://www.pornhub.com/'
 htm = requests.get(url,headers=headerss, proxies=proxies)
 print(htm.text)
+
+def generatorText():
+    for i in range(10):
+        print(i)
+        yield
+        print('第 %d 次',i)
+
+
+o = generatorText()
+

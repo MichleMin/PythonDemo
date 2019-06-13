@@ -1,0 +1,394 @@
+04-03 15:18:47 INFO finish !
+04-03 15:18:47 INFO 
+        tips:
+            python crawler.py webm
+                - 下载热门页面的缩略图，路径为webm文件夹下
+            python crawler.py mp4
+                - 将下载的webm文件对应的以ph开头的文件名逐行写在download.txt中，运行该命令
+                
+04-03 15:35:05 INFO finish !
+04-03 15:35:05 INFO 
+        tips:
+            python crawler.py webm
+                - 下载热门页面的缩略图，路径为webm文件夹下
+            python crawler.py mp4
+                - 将下载的webm文件对应的以ph开头的文件名逐行写在download.txt中，运行该命令
+                
+04-03 15:37:18 INFO finish !
+04-03 15:37:18 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 15:37:21 INFO this file had been downloaded :: webm/ph5c9fa9bdd7c1f.webm
+04-03 15:37:21 ERROR a bytes-like object is required, not 'str'
+04-03 15:37:21 INFO this file had been downloaded :: webm/ph5c8c2e4b43d83.webm
+04-03 15:37:21 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:44 INFO finish !
+04-03 15:38:44 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 15:38:46 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:46 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:46 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:47 INFO crawling: https://www.pornhub.com/video?o=ht
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:48 INFO crawling: https://www.pornhub.com/video?o=mv
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 ERROR a bytes-like object is required, not 'str'
+04-03 15:38:50 INFO crawling: https://www.pornhub.com/video
+04-03 15:42:06 INFO finish !
+04-03 15:42:06 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 15:42:08 INFO crawling: https://www.pornhub.com/video?o=ht
+04-03 15:42:10 INFO crawling: https://www.pornhub.com/video?o=mv
+04-03 15:42:12 INFO crawling: https://www.pornhub.com/video
+04-03 15:42:21 INFO finish !
+04-03 15:42:21 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 15:42:23 INFO crawling: https://www.pornhub.com/video?o=ht
+04-03 15:42:25 INFO crawling: https://www.pornhub.com/video?o=mv
+04-03 15:42:27 INFO crawling: https://www.pornhub.com/video
+04-03 15:43:23 INFO finish !
+04-03 15:43:23 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 15:43:27 INFO download success :: webm/ph59e9fc281cf2b.webm
+04-03 15:43:27 ERROR write() takes exactly one argument (2 given)
+04-03 15:43:30 INFO download success :: webm/ph5c51192b83d6b.webm
+04-03 15:43:30 ERROR write() takes exactly one argument (2 given)
+04-03 15:43:33 INFO download success :: webm/ph5c338ff2f2da7.webm
+04-03 15:43:33 ERROR write() takes exactly one argument (2 given)
+04-03 15:43:36 INFO download success :: webm/ph5b5b59cf17b67.webm
+04-03 15:43:36 ERROR write() takes exactly one argument (2 given)
+04-03 15:43:42 INFO finish !
+04-03 15:43:42 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 15:43:44 INFO this file had been downloaded :: webm/ph59e9fc281cf2b.webm
+04-03 15:43:44 ERROR write() takes exactly one argument (2 given)
+04-03 15:43:44 INFO this file had been downloaded :: webm/ph5c51192b83d6b.webm
+04-03 15:43:44 ERROR write() takes exactly one argument (2 given)
+04-03 15:43:44 INFO this file had been downloaded :: webm/ph5c338ff2f2da7.webm
+04-03 15:43:44 ERROR write() takes exactly one argument (2 given)
+04-03 15:43:44 INFO this file had been downloaded :: webm/ph5b5b59cf17b67.webm
+04-03 15:43:44 ERROR write() takes exactly one argument (2 given)
+04-03 15:44:14 INFO finish !
+04-03 15:44:14 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 15:44:16 INFO this file had been downloaded :: webm/ph59e9fc281cf2b.webm
+04-03 15:44:16 INFO this file had been downloaded :: webm/ph5c51192b83d6b.webm
+04-03 15:44:16 INFO this file had been downloaded :: webm/ph5c338ff2f2da7.webm
+04-03 15:44:16 INFO this file had been downloaded :: webm/ph5b5b59cf17b67.webm
+04-03 15:44:19 INFO download success :: webm/ph5c62c6260be60.webm
+04-03 15:46:43 INFO finish !
+04-03 15:46:43 INFO 1
+04-03 15:46:43 INFO p
+04-03 15:46:43 INFO e
+04-03 15:46:43 INFO 2
+04-03 15:46:43 INFO b
+04-03 15:46:43 INFO f
+04-03 15:46:43 INFO 5
+04-03 15:46:43 INFO c
+04-03 15:46:43 INFO 8
+04-03 15:46:43 INFO 9
+04-03 15:46:43 INFO h
+04-03 15:49:39 INFO finish !
+04-03 15:49:39 INFO e
+04-03 15:49:39 INFO 8
+04-03 15:49:39 INFO h
+04-03 15:49:39 INFO c
+04-03 15:49:39 INFO 2
+04-03 15:49:39 INFO 5
+04-03 15:49:39 INFO p
+04-03 15:49:39 INFO 1
+04-03 15:49:39 INFO 
+04-03 15:49:39 INFO f
+04-03 15:49:39 INFO b
+04-03 15:49:39 INFO 9
+04-03 15:50:08 INFO finish !
+04-03 15:50:08 INFO b
+04-03 15:50:08 INFO f
+04-03 15:50:08 INFO 1
+04-03 15:50:08 INFO 8
+04-03 15:50:08 INFO 9
+04-03 15:50:08 INFO "
+04-03 15:50:08 INFO c
+04-03 15:50:08 INFO p
+04-03 15:50:08 INFO ,
+04-03 15:50:08 INFO e
+04-03 15:50:08 INFO 2
+04-03 15:50:08 INFO 
+04-03 15:50:08 INFO h
+04-03 15:50:08 INFO 5
+04-03 15:50:42 INFO finish !
+04-03 15:50:42 INFO f
+04-03 15:50:42 INFO 5
+04-03 15:50:42 INFO c
+04-03 15:50:42 INFO p
+04-03 15:50:42 INFO 2
+04-03 15:50:42 INFO b
+04-03 15:50:42 INFO e
+04-03 15:50:42 INFO 1
+04-03 15:50:42 INFO 9
+04-03 15:50:42 INFO h
+04-03 15:50:42 INFO 8
+04-03 15:51:07 INFO finish !
+04-03 15:51:07 INFO h
+04-03 15:51:07 INFO c
+04-03 15:51:07 INFO b
+04-03 15:51:07 INFO 9
+04-03 15:51:07 INFO p
+04-03 15:51:07 INFO e
+04-03 15:51:07 INFO 8
+04-03 15:51:07 INFO f
+04-03 15:51:07 INFO 5
+04-03 15:51:07 INFO 
+04-03 15:51:07 INFO 2
+04-03 15:51:07 INFO 1
+04-03 15:52:25 INFO finish !
+04-03 15:53:06 INFO finish !
+04-03 15:53:06 INFO ph59e9fc281cf2b
+04-03 15:53:06 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph59e9fc281cf2b
+04-03 15:53:08 INFO BANGBROS - Black Step Sister Maya Bijou Fucks Brother Juan El Caballo Loco
+04-03 15:53:08 INFO 720 https://ev.phncdn.com/videos/201710/20/137731682/720P_1500K_137731682.mp4?validfrom=1554274387&validto=1554281587&rate=195k&burst=1400k&hash=a5A7y7zcyuIiZCRBQHkOtQ0uy0Y%3D
+04-03 15:53:08 INFO start download...
+04-03 15:53:57 INFO download success :: mp4/BANGBROS - Black Step Sister Maya Bijou Fucks Brother Juan El Caballo Loco.mp4
+04-03 15:58:03 INFO finish !
+04-03 15:58:03 INFO ph59e9fc281cf2b
+04-03 15:58:03 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph59e9fc281cf2b
+04-03 15:58:05 INFO BANGBROS - Black Step Sister Maya Bijou Fucks Brother Juan El Caballo Loco
+04-03 16:20:05 INFO finish !
+04-03 16:20:05 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 16:20:10 INFO download success :: webm/ph5c8ecc8c56387.webm
+04-03 16:20:13 INFO download success :: webm/ph5c52110e6fba6.webm
+04-03 16:20:17 INFO download success :: webm/ph5ba85c0c500e2.webm
+04-03 16:23:12 INFO finish !
+04-03 16:23:12 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 16:23:14 INFO this file had been downloaded :: webm/ph5c51192b83d6b.webm
+04-03 16:23:14 ERROR binary mode doesn't take an encoding argument
+04-03 16:23:17 INFO download success :: webm/ph5c4f603152697.webm
+04-03 16:23:17 ERROR binary mode doesn't take an encoding argument
+04-03 16:23:29 INFO finish !
+04-03 16:23:29 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 16:23:31 INFO this file had been downloaded :: webm/ph5c51192b83d6b.webm
+04-03 16:23:31 ERROR a bytes-like object is required, not 'str'
+04-03 16:23:31 INFO this file had been downloaded :: webm/ph5c4f603152697.webm
+04-03 16:23:31 ERROR a bytes-like object is required, not 'str'
+04-03 16:24:03 INFO finish !
+04-03 16:24:03 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 16:24:05 INFO this file had been downloaded :: webm/ph5c51192b83d6b.webm
+04-03 16:24:05 INFO this file had been downloaded :: webm/ph5c4f603152697.webm
+04-03 16:24:08 INFO download success :: webm/ph5b79045716851.webm
+04-03 16:24:11 INFO download success :: webm/ph5c430327336c3.webm
+04-03 16:24:11 INFO this file had been downloaded :: webm/ph5c62c6260be60.webm
+04-03 16:24:46 INFO finish !
+04-03 16:24:46 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 16:24:50 INFO download success :: webm/ph5c51192b83d6b.webm
+04-03 16:24:53 INFO download success :: webm/ph5c4f603152697.webm
+04-03 16:24:56 INFO download success :: webm/ph5b79045716851.webm
+04-03 16:25:00 INFO download success :: webm/ph5c430327336c3.webm
+04-03 16:25:03 INFO download success :: webm/ph5c62c6260be60.webm
+04-03 16:25:07 INFO download success :: webm/ph57b50e391ff16.webm
+04-03 16:25:10 INFO download success :: webm/ph5957660510cbd.webm
+04-03 16:25:47 INFO finish !
+04-03 16:25:47 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 16:25:52 INFO download success :: webm/ph5c9fa9bdd7c1f.webm
+04-03 16:25:54 INFO download success :: webm/ph5c8c2e4b43d83.webm
+04-03 16:25:56 INFO download success :: webm/ph5c7ea7d57975d.webm
+04-03 16:25:59 INFO download success :: webm/ph5abdafc47b6c4.webm
+04-03 16:25:59 INFO this file had been downloaded :: webm/ph5c62c6260be60.webm
+04-03 16:25:59 INFO this file had been downloaded :: webm/ph57b50e391ff16.webm
+04-03 16:25:59 INFO this file had been downloaded :: webm/ph5957660510cbd.webm
+04-03 16:26:02 INFO download success :: webm/ph5b00a0948bfe2.webm
+04-03 16:26:06 INFO download success :: webm/ph59449ae019f9a.webm
+04-03 16:26:09 INFO download success :: webm/ph5c75e8fb1c1b2.webm
+04-03 16:26:12 INFO download success :: webm/ph5be755d186a26.webm
+04-03 16:26:14 INFO download success :: webm/ph5c795309f392f.webm
+04-03 16:26:17 INFO download success :: webm/ph5b24b3d8b89d2.webm
+04-03 16:26:19 INFO download success :: webm/ph579ab370642d2.webm
+04-03 16:26:22 INFO download success :: webm/ph5c4c83350279d.webm
+04-03 16:30:44 INFO finish !
+04-03 16:32:00 INFO finish !
+04-03 16:32:37 INFO finish !
+04-03 16:33:01 INFO finish !
+04-03 16:36:30 INFO finish !
+04-03 16:37:08 INFO finish !
+04-03 16:39:58 INFO finish !
+04-03 16:39:58 INFO crawling: https://www.pornhub.com/video?o=tr
+04-03 16:40:02 INFO download success :: webm/ph5c5c5ce3c23a8.webm
+04-03 16:40:04 INFO download success :: webm/ph5c66fa1c5bfcb.webm
+04-03 16:40:06 INFO download success :: webm/ph5c0c9d8bb437e.webm
+04-03 16:40:09 INFO download success :: webm/ph5c9d508f67027.webm
+04-03 16:40:09 INFO this file had been downloaded :: webm/ph5c62c6260be60.webm
+04-03 16:40:09 INFO this file had been downloaded :: webm/ph57b50e391ff16.webm
+04-03 16:40:09 INFO this file had been downloaded :: webm/ph5957660510cbd.webm
+04-03 16:40:09 INFO this file had been downloaded :: webm/ph5b00a0948bfe2.webm
+04-03 16:40:09 INFO this file had been downloaded :: webm/ph59449ae019f9a.webm
+04-03 16:40:09 INFO this file had been downloaded :: webm/ph5c75e8fb1c1b2.webm
+04-03 16:40:09 INFO this file had been downloaded :: webm/ph5be755d186a26.webm
+04-03 16:40:09 INFO this file had been downloaded :: webm/ph5c795309f392f.webm
+04-03 16:40:09 INFO this file had been downloaded :: webm/ph5b24b3d8b89d2.webm
+04-03 16:40:09 INFO this file had been downloaded :: webm/ph579ab370642d2.webm
+04-03 16:40:09 INFO this file had been downloaded :: webm/ph5c4c83350279d.webm
+04-03 16:40:11 INFO download success :: webm/ph5a273b57b13e8.webm
+04-03 16:40:14 INFO download success :: webm/ph5b0daaedb6537.webm
+04-03 16:40:17 INFO download success :: webm/ph5ba1b2c006ae0.webm
+04-03 16:40:20 INFO download success :: webm/ph5931ccf39f9a1.webm
+04-03 16:40:22 INFO download success :: webm/ph5c643c25bb0d8.webm
+04-03 16:40:25 INFO download success :: webm/ph5aafd7dc232e1.webm
+04-03 16:40:29 INFO download success :: webm/ph59286fdd50239.webm
+04-03 16:40:31 INFO download success :: webm/ph5be9f83878bec.webm
+04-03 16:40:34 INFO download success :: webm/ph5aafd85c67568.webm
+04-03 16:40:37 INFO download success :: webm/ph5c85d916383a0.webm
+04-03 16:40:41 INFO finish !
+04-03 16:40:41 INFO ph5c5c5ce3c23a8
+04-03 16:40:41 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5c5c5ce3c23a8
+04-03 16:40:43 INFO Real Orgasm Contractions in Dorm Room
+04-03 16:40:43 INFO 720 https://cv.phncdn.com/videos/201902/07/206378681/720P_1500K_206378681.mp4?TQlutP0MkFj9-IEW_3t9rTDKvERGbztFx6lL8edEZREPBZUuKi3RvsWZCIcTRsgPOPkXmusW8t6Tzs8sORC2JeJQGdcGBL7BJRNLo_QgEuqP518-dEfnx5u-ktuCiFGxFAHc7f1yHDLTfewuxeXMKjnySbDKf3zzzmWvUdRUPaC9_9s6tk87q0FAUKv9o3CaQly8Ut1zkR8
+04-03 16:40:43 INFO start download...
+04-03 16:40:50 INFO finish !
+04-03 16:41:06 INFO ph5c5c5ce3c23a8
+04-03 16:42:00 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5c5c5ce3c23a8
+04-03 16:42:02 INFO Real Orgasm Contractions in Dorm Room
+04-03 16:42:02 INFO 720 https://cv.phncdn.com/videos/201902/07/206378681/720P_1500K_206378681.mp4?IbPQ7J4kOkOBDwt3-15HeURMs0Gs9-caKpZMdqDI-HBnaZ4LOBtznwFzm1qXsgwe6Hc1wz1d2jMFfsBCBUtPy8R4m21t2wf4A8Ij8oM-qxYIqbT_hKGJTxZo5E78yoCwWWeXm8Pcb1z1YYAiF80y_Wv-vtom3RARXo75fnOXyxh0fWNLp9rFm-GNn8IJPUJs4RbK2e1b3qw
+04-03 16:42:02 INFO start download...
+04-03 16:42:23 INFO finish !
+04-03 16:42:23 INFO ph5c5c5ce3c23a8
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5c5c5ce3c23a8
+04-03 16:42:23 INFO ph5c66fa1c5bfcb
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5c66fa1c5bfcb
+04-03 16:42:23 INFO ph5c0c9d8bb437e
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5c0c9d8bb437e
+04-03 16:42:23 INFO ph5c9d508f67027
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5c9d508f67027
+04-03 16:42:23 INFO ph5c62c6260be60
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5c62c6260be60
+04-03 16:42:23 INFO ph57b50e391ff16
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph57b50e391ff16
+04-03 16:42:23 INFO ph5957660510cbd
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5957660510cbd
+04-03 16:42:23 INFO ph5b00a0948bfe2
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5b00a0948bfe2
+04-03 16:42:23 INFO ph59449ae019f9a
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph59449ae019f9a
+04-03 16:42:23 INFO ph5c75e8fb1c1b2
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5c75e8fb1c1b2
+04-03 16:42:23 INFO ph5be755d186a26
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5be755d186a26
+04-03 16:42:23 INFO ph5c795309f392f
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5c795309f392f
+04-03 16:42:23 INFO ph5b24b3d8b89d2
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5b24b3d8b89d2
+04-03 16:42:23 INFO ph579ab370642d2
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph579ab370642d2
+04-03 16:42:23 INFO ph5c4c83350279d
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5c4c83350279d
+04-03 16:42:23 INFO ph5a273b57b13e8
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5a273b57b13e8
+04-03 16:42:23 INFO ph5b0daaedb6537
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5b0daaedb6537
+04-03 16:42:23 INFO ph5ba1b2c006ae0
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5ba1b2c006ae0
+04-03 16:42:23 INFO ph5931ccf39f9a1
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5931ccf39f9a1
+04-03 16:42:23 INFO ph5c643c25bb0d8
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5c643c25bb0d8
+04-03 16:42:23 INFO ph5aafd7dc232e1
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5aafd7dc232e1
+04-03 16:42:23 INFO ph59286fdd50239
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph59286fdd50239
+04-03 16:42:23 INFO ph5be9f83878bec
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5be9f83878bec
+04-03 16:42:23 INFO ph5aafd85c67568
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5aafd85c67568
+04-03 16:42:23 INFO ph5c85d916383a0
+04-03 16:42:23 INFO url: https://www.pornhub.com/view_video.php?viewkey=ph5c85d916383a0
