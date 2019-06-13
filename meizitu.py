@@ -44,16 +44,15 @@ def getPage(pageNum):
 # 图片链接列表， 标题
 # url是详情页链接
 def getPiclink(url):
-    # url = 'https://www.mzitu.com/158812'
     sel = html.fromstring(requests.get(url).content)
     # 图片总数
     total = sel.xpath('//div[@class="pagenavi"]/a[last()-1]/span/text()')[0]
     # 标题
     title = sel.xpath('//h2[@class="main-title"]/text()')[0]
     # 文件夹格式
-    # dirName = u"【{}P】{}".format(total, title)
+    dirName = u"【{}P】{}".format(total, title)
     # # 新建文件夹
-    # os.mkdir(dirName)
+    os.mkdir(dirName)
 
     n = 1
     images = []
@@ -66,23 +65,22 @@ def getPiclink(url):
             jpgLink = s.xpath('//div[@class="main-image"]/p/a/img/@src')[0]
             # print(jpgLink)
             # 文件写入的名称：当前路径／文件夹／文件名
-            # filename = '%s/%s/%s.jpg' % (os.path.abspath('.'), dirName, n)
-            print(u'开始下载图片:第%s张' % (i))
-            db = requests.get(jpgLink, headers=header(jpgLink)).content
-            images.append(binary.Binary(db))
+            filename = '%s/%s/%s.jpg' % (os.path.abspath('.'), dirName, n)
+            print(u'开始下载图片:第%s张' % (i+1))
+            # db = requests.get(jpgLink, headers=header(jpgLink)).content
+            # images.append(binary.Binary(db))
             # url = requests.get(jpgLink, headers=header(jpgLink)).text
             # print(jpgLink)
-
-            # with open(filename, "wb+") as jpg:
-            #     jpg.write(requests.get(jpgLink, headers=header(jpgLink)).content)
+            with open(filename, "wb+") as jpg:
+                jpg.write(requests.get(jpgLink, headers=header(jpgLink)).content)
         except:
             pass
-    result = {
-        'title': title,
-        'images': images,
-        'url': url
-    }
-    save_to_mongo(result)
+    # result = {
+    #     'title': title,
+    #     'images': images,
+    #     'url': url
+    # }
+    # save_to_mongo(result)
 
 
 def save_to_mongo(result):
@@ -97,7 +95,7 @@ if __name__ == '__main__':
     # url = 'http://www.meizitu.com/a/5555.html'
     # getPiclink(url)
     # for i in range(1):
-    for i in range(10):
+    for i in range(2):
         p = getPage(i)
         pool = Pool()
         pool.map(getPiclink, p)
